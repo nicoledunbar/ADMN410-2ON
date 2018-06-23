@@ -1,0 +1,39 @@
+
+
+body { background-color: #A9E7FF; }
+
+h1 {
+    color: black;
+    margin-right: 20px;
+    text-align: center;
+}
+h2
+{
+	color: navy;
+	text-align: center;
+	
+}
+
+h3 {
+	color: navy;
+	font-size: 18px;
+	font-family: "Comic Sans MS";
+}
+
+h5 {
+	color: black;
+    font-size: 20px;
+    text-align: left;
+	
+}
+
+h4{
+	color:red;
+	font-size: 18px;
+	text-align: center;
+
+
+	table, th, td {
+    border: 1px solid black;  
+}
+
